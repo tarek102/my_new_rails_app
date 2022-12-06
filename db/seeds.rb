@@ -5,3 +5,10 @@
 #
 #   movies = Movie.create([{ name: "Star Wars" }, { name: "Lord of the Rings" }])
 #   Character.create(name: "Luke", movie: movies.first)
+
+
+Greeting.create(greeting: "Happy coding")
+Greeting.create(greeting: "Viel Spaß beim Codieren")
+Greeting.create(greeting: "codificación feliz")
+Greeting.create(greeting: "bon codage")
+Greeting.create(greeting: "beatus coding")

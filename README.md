@@ -1,24 +1,58 @@
-# README
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# my_new_rails_app
 
-Things you may want to cover:
+> This is a project designed to implement a connection between a Ruby on Rails back-end and React front-end.
 
-* Ruby version
+## Overview
 
-* System dependencies
+## Built With
 
-* Configuration
+- Rails
+- Webpack
+- Postgresql
 
-* Database creation
+## Getting Started
 
-* Database initialization
+### Clone this repository
 
-* How to run the test suite
+```bash
+$ git clone https://github.com/tarek102/my_new_rails_app.git
+$ cd my_new_rails_app
+```
 
-* Services (job queues, cache servers, search engines, etc.)
+### Run project
 
-* Deployment instructions
+```bash
+  bin/rails server -p 3000 
+```
 
-* ...
+### Open page in browser
+
+```bash
+$ http://localhost:3000/
+```
+
+## Authors
+
+👤 **Tracey Kadenyi**
+
+ GitHub: [@Tarek102](https://github.com/tarek102)
+ LinkedIn: [@Tarek Yosry](https://www.linkedin.com/in/tarek-yosry/)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+Feel free to check the [issues page](https://github.com/tarek102/my_new_rails_app/issues)
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Fellow Microverse students
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
